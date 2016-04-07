@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ileniumMavenTestSuite" parallel="false">
+	<test name="iliniumMavenTest">
+		<classes>
+			<class name="com.itsgajre.ilenium.maven.ileniumMaven.ExampleTestNgMaven"/>
+			<class name="com.itsgajre.ilenium.maven.ileniumMaven.ExampleTestNgMavenTwo"/>
+		</classes>
+	</test>
+</suite>
