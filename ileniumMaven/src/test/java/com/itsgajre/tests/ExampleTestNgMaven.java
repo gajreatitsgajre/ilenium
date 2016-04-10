@@ -1,4 +1,4 @@
-package com.itsgajre.ilenium.maven.ileniumMaven;
+package com.itsgajre.tests;
 import org.testng.annotations.Test;
 
 public class ExampleTestNgMaven {
